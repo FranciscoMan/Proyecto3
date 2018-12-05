@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Feedback</string>
+    <string name="p1">¿Que tan interesado se siente en el nuevo Ciberpunk 2077? </string>
+    <string name="p2">¿Tiene conocimiento de su fecha de salida?</string>
+    <string name="p3">¿Planea comprar el videojuego?</string>
+    <string name="p4">¿Cuándo gasta al año en videojuegos?</string>
+    <string name="p5">¿Asistió a la conferencia E3 de este año?</string>
+    <string name="p6">¿Qué tanta es su emoción por el nuevo Ciberpunk 2077?</string>
+    <string name="p7">Personalmente, ¿qué espera del título?</string>
+    <string name="p8">¿Qué Plataformas usted tiene?</string>
+</resources>
